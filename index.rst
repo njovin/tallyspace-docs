@@ -5,14 +5,33 @@
 
 TallySpace User Manual
 ======================================
+`TallySpace`_ provides secure online & SMS voting & surveys.  This guide includes everything you need to know to use the system, from setting up and administering votes to voting.  
 
+.. _TallySpace: http://www.tallyspace.com/
+
+The documentation is organized into two sections: Ballot Administration and Voting.  We suggest that vote administrators read both sections to thoroughly understand how the system works.
+
+Support is always available via `support@tallyspace.com`_.
+
+.. _support@tallyspace.com: mailto:support@tallyspace.com
+
+Ballot Administration
+---------------
 .. toctree::
    :maxdepth: 2
+   overview 
+   ballots
+   contacts
+   account_administration
 
-
-
-Sections
-==================
+Voting
+---------------
+.. toctree::
+   :maxdepth: 2
+   overview 
+   ballots
+   contacts
+   account_administration   
 
 * :ref:`genindex`
 * :ref:`search`
