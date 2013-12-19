@@ -20,5 +20,15 @@ SMS options
 ^^^^^^^^^^^^^
 If you've enabled SMS (text-message) voting on your ballot, each candidate must be assigned an 'SMS Option'.  This is what voters will text in to vote for that choice.  
 
+Contacts
+---------
+Contacts most typically contain a list of approved voters.  Importing or entering a contact list allows voters to log in with information they already know, without the hassle of having to sign up for an account on their own.
+
+For categories with a large number of choices, you can also populate the choices from your contacts list.
+
+Contact Custom Fields 
+^^^^^^^^^^^^^^^^^^^^^^^
+TallySpace allows you to import or track any information about your contacts you like.  This makes it a breeze to control who can vote on each category in a very granular way. "Grade Level" is an example of a cusotm field - in many cases a school will only want to allow 12th graders to vote for 12th grade president.  Custom fields are what makes this possible.  
+
 
 
