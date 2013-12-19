@@ -1,6 +1,11 @@
 Account Administration
 =======================
 
+.. _sms-setup:
+
+SMS Setup 
+-----------
+
 Custom Voting Address
 ----------------------
 

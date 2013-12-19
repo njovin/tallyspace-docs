@@ -9,9 +9,9 @@ TallySpace User Manual
 
 .. _TallySpace: http://www.tallyspace.com/
 
-The documentation is organized into two sections: Ballot Administration and Voting.  We suggest that vote administrators read both sections to thoroughly understand how the system works.
+The documentation is organized into two sections: Ballot Administration and Voting.  We suggest that accont & ballot administrators read both sections to thoroughly understand how the system works.
 
-Support is always available via `support@tallyspace.com`_. OK
+Support is always available via `support@tallyspace.com`_.
 
 .. _support@tallyspace.com: mailto:support@tallyspace.com
 
@@ -28,8 +28,10 @@ Ballot Administration
 
 Voting
 ---------------
-* :ref:`voting-online`
-* :ref:`voting-sms`
+.. toctree::
+   :maxdepth: 2
+
+   voting
 
 .. _my-reference-label:
 

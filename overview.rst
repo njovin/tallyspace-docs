@@ -16,10 +16,6 @@ Choices
 ----------------------
 Each category can contain one or more choices (or candidates). These are the options voters choose from when casting their votes.  
 
-SMS options
-^^^^^^^^^^^^^
-If you've enabled SMS (text-message) voting on your ballot, each candidate must be assigned an 'SMS Option'.  This is what voters will text in to vote for that choice.  
-
 Contacts
 ---------
 Contacts most typically contain a list of approved voters.  Importing or entering a contact list allows voters to log in with information they already know, without the hassle of having to sign up for an account on their own.

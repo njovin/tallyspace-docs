@@ -1,6 +1,7 @@
 Categories
 ========
 
+.. _category-basic-settings:
 Basic Settings
 ---------------
 
