@@ -19,7 +19,8 @@ Ballot Administration
 ---------------
 .. toctree::
    :maxdepth: 2
-   overview 
+   
+   overview
    ballots
    contacts
    account_administration
@@ -28,10 +29,10 @@ Voting
 ---------------
 .. toctree::
    :maxdepth: 2
-   overview 
+   overview
    ballots
    contacts
-   account_administration   
+   account_administration
 
 * :ref:`genindex`
 * :ref:`search`
