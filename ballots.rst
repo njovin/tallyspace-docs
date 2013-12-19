@@ -20,7 +20,7 @@ Once you've set up a ballot, you'll be taken to the 'Ballot Overview' page.  Thi
 Basic Settings 
 ----------------
 * **Ballot Title:** This is what displays in the list of available ballots before a voter logs in
-* **Online Voting: Check this box to allow voters to vote online
+* **Online Voting:** Check this box to allow voters to vote online
 * **SMS Voting:** Check this box to allow voters to vote via SMS (text-message)
 * **Result Viewing:** Check this box to allow logged-in voters to view the results in real-time
 
@@ -35,7 +35,9 @@ Online Vote Security
 ^^^^^^^^^^^^^^^^^^^^^^
 Check the box for each field that you want to require voters to fill in prior to being allowed to vote.  Whenever a voter wants to vote online, they'll need to enter the information for each of these fields *as it appears in your contact list* before they can vote 
 
-.. note:: TallySpace does not offer a voter self-registratio process.  Only voters you've imported or entered manually will be able to log in.  Make sure you've imported or entered all of the information you're requiring or else nobody will be able to vote.
+.. image:: /images/online_security.jpg
+
+.. note:: TallySpace does not offer a voter self-registration process.  Only voters you've imported or entered manually will be able to log in.  Make sure you've imported or entered all of the information you're requiring or else nobody will be able to vote.
 
 SMS Security
 ^^^^^^^^^^^^^
@@ -59,6 +61,8 @@ The *Advanced* tab provides additional controls over the way your ballot behaves
 Scheduled Opening/Closing of Polls
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you'd like a ballot to start & end accepting votes at a specific date & time, you can set that here.
+
+.. image:: /images/ballot_schedule.jpg
 
 Publicly Viewable Results
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -100,9 +104,18 @@ The *Results* tab will take you to the Results page for a ballot - showing the t
 Exporting Results
 ^^^^^^^^^^^^^^^^^^
 The green 'Export Results' button at the top of the *Results* page allows you to export detailed results as an Excel CSV file:
+
+.. image:: /images/export_results.jpg
+
 * **All Totals** exports a list of all categories and totals for each choice
-* ** Eligible voters that have voted** exports a list of just voter names who have voted
-* ** Eligible voters that haven't voted** exports a list of eligible voters who haven't yet submitted any votes
-* **Audit Report** is the most detailed report - it shows exactly who voted for who, when, and from which IP address.  
+* **Eligible voters that have voted** exports a list of just voter names who have voted
+* **Eligible voters that haven't voted** exports a list of eligible voters who haven't yet submitted any votes
+* **Audit Report** is the most detailed report - it shows exactly who voted for who, when, and from which IP address. 
+
+Live Updating
+^^^^^^^^^^^^^^ 
+Whether somebody votes online or by text message, the results are counted immediately. It's usually less than five seconds from the time a message is sent to the time our system received, parses, and saves a vote.
+
+However, by default, you need to refresh the results page to get the most up-to-date data.  If you're at a live event or monitoring the results and would like the results to update in real-time without having to manually refresh the page, simply click the *Enable Live Updating* button on the results page. 
 
 
