@@ -5,14 +5,16 @@ Ballots are the containers for categories and choices.  Before you can conduct a
 
 Creating a Ballot
 -------------------
-On the 'Ballots' page click the green 'Create Ballot' button to get started.  This will open the 'Ballot Setup Wizard' which will guide you through the process of setting up a ballot, including Category setup and security options.
+On the *Ballots* page click the green *Create Ballot* button to get started.  This will open the 'Ballot Setup Wizard' which will guide you through the process of setting up a ballot, including Category setup and security options.
 
 .. image:: /images/ballot_setup_wizard.jpg
     :width: 600px
 
+.. _ballot-overview:
+
 Ballot Overview Page
 ----------------------
-Once you've set up a ballot, you'll be taken to the 'Ballot Overview' page.  This gives you a quick view of the status of your ballot (accepting votes, scheduled, etc.), categories, and voting options (SMS, online, etc.).  
+Once you've set up a ballot, you'll be taken to the *Ballot Overview* page.  This gives you a quick view of the status of your ballot (accepting votes, scheduled, etc.), categories, and voting options (SMS, online, etc.).  
 
 .. image:: /images/ballot_overview.jpg
     :width: 600px
