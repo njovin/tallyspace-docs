@@ -28,11 +28,17 @@ Ballot Administration
 
 Voting
 ---------------
-.. toctree::
-   :maxdepth: 2
-   overview
-   online_voting
-   sms_voting
+* :ref:`voting-online`
+* :ref:`voting-sms`
+
+.. _my-reference-label:
+
+Section to cross-reference
+--------------------------
+
+This is the text of the section.
+
+It refers to the section itself, see :ref:`my-reference-label`.
 
 * :ref:`genindex`
 * :ref:`search`
