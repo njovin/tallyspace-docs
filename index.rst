@@ -11,7 +11,7 @@ TallySpace User Manual
 
 The documentation is organized into two sections: Ballot Administration and Voting.  We suggest that vote administrators read both sections to thoroughly understand how the system works.
 
-Support is always available via `support@tallyspace.com`_.
+Support is always available via `support@tallyspace.com`_. OK
 
 .. _support@tallyspace.com: mailto:support@tallyspace.com
 
