@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-TallySpace User Manual
+TallySpace User Guide
 ======================================
 `TallySpace`_ provides secure online & SMS voting & surveys.  This guide includes everything you need to know to use the system, from setting up and administering votes to voting.  
 
@@ -21,6 +21,7 @@ Ballot Administration
    :maxdepth: 2
 
    overview
+   faq
    ballots
    categories
    contacts

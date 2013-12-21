@@ -36,20 +36,27 @@ Select the *Populate ballot based on criteria* option to auto-populate the ballo
 
 .. image:: /images/choice_filter.jpg
 
-Write-In Categories
+Write-In Choices
 ^^^^^^^^^^^^^^^^^^^^
 Select this to not display any choices and alllow voters to write in their own choice.  No tallying will be done on the results, but you'll be able to export the votes and tally them manually.
 
 Restricting Voters
 -------------------
+If you've imported contacts, the *Who Can Vote* tab allows you to restrict who can vote on any specific category.  You can restrict voting using any custom fields you've set up for voters.  This setting is commonly used by schools to restrict voting to specific grade levels.
 
 Advanced Settings
 ------------------
+The *Advanced Settings* tab on the *Edit Category* page has some additional, lesser-used controls:
+
 Choice Ordering 
 ^^^^^^^^^^^^^^^^
+You can choose how the choices are displayed on the ballot.  Choices can be displayed alphabetically, in a custom order, or in a random order each time the ballot is loaded.
 
 Excluding Specific Contacts as Choices
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you've chosen to populate the category choices from the contacts list, you can exclude specific candidates (such as previous winners).
+
 
 Excluding Specific Contacts as Voters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you need to exclude specific contacts from voting (such as candidates or previous winners), you can do so.

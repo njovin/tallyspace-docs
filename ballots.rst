@@ -33,6 +33,8 @@ Security Settings
 TallySpace allows you to control exactly how voters are authenticates whether they're voting on line or via SMS.
 
 
+.. _online-vote-security:
+
 Online Vote Security 
 ^^^^^^^^^^^^^^^^^^^^^^
 Check the box for each field that you want to require voters to fill in prior to being allowed to vote.  Whenever a voter wants to vote online, they'll need to enter the information for each of these fields *as it appears in your contact list* before they can vote 
@@ -40,6 +42,8 @@ Check the box for each field that you want to require voters to fill in prior to
 .. image:: /images/online_security.jpg
 
 .. note:: TallySpace does not offer a voter self-registration process.  Only voters you've imported or entered manually will be able to log in.  Make sure you've imported or entered all of the information you're requiring or else nobody will be able to vote.
+
+.. _sms-security:
 
 SMS Security
 ^^^^^^^^^^^^^
