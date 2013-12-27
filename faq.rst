@@ -34,6 +34,15 @@ For SMS voting with the *Require ID* option set, the same rule applies.  Voters'
 
 For SMS votes with the *Limit Votes by phone number* option selected, the number of votes can still be set on :ref:`Category Settings <category-basic-settings>`, but no contact information is cross-checked.  The system allows X votes per phone number.
 
+Can I let voters vote once per day, week, or month?
+---------------------------------------------------------------------------------------------
+Yup - when you set the number of votes allowed on the :ref:`Category Settings <category-basic-settings>`, you can specify whether that applied to their total number of votes, or votes per day, week, or month.
+
+Can I send a response back to voters when their SMS vote is succesful?
+---------------------------------------------------------------------------------------------
+Yes - on the :ref:`<ballot-advanced-settings>` tab of the *Edit Ballot* page you can specify a message to be sent back to voters when their SMS vote is succesful.
+
+
 How do I replace my contact list with all new contacts? 
 ---------------------------------------------------------------------------------------------
 When importing your contact list, there is an option to delete all existing contacts and replace them with the new ones.  See :ref:`importing-contacts` for details.
