@@ -60,7 +60,7 @@ You have three ways to restrict who votes via text-message:
 * **Only allow votes from known contact phone numbers:** If this is selected, only votes from phone numbers associated with contacts in your Contacts list will be counted.  
 
 
-.. _ballots-advanced-settings:
+.. _ballot-advanced-settings:
 
 Advanced Settings
 -------------------
