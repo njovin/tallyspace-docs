@@ -59,7 +59,6 @@ You have three ways to restrict who votes via text-message:
 * **Allow X votes per phone number:** This will allow anyone to vote (*not* just contacts in your contacts list), but only allow X votes per category. You set what X is in the :ref:`Category Settings <category-basic-settings>`.
 * **Only allow votes from known contact phone numbers:** If this is selected, only votes from phone numbers associated with contacts in your Contacts list will be counted.  
 
-
 .. _ballot-advanced-settings:
 
 Advanced Settings
@@ -88,7 +87,7 @@ Respond to Failed SMS
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 By default, if a user's SMS message can't be authorized or matched to a valid SMS Option, the system will respond to them with an error message. If you'd like to disable this behavior, uncheck this box. 
 
-Respond to Succesful Vote
+Respond to Succesful SMS
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 By default, no message is sent back to users when a vote is submitted succesfully.  If you'd like to change this, check this box and fill in the message you'd like sent back to voters.
 

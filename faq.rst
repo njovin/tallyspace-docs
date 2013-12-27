@@ -40,7 +40,7 @@ Yup - when you set the number of votes allowed on the :ref:`Category Settings <c
 
 Can I send a response back to voters when their SMS vote is succesful?
 ---------------------------------------------------------------------------------------------
-Yes - on the :ref:`<ballot-advanced-settings>` tab of the *Edit Ballot* page you can specify a message to be sent back to voters when their SMS vote is succesful.
+Yes - on the :ref:`ballot-advanced-settings` tab of the *Edit Ballot* page you can specify a message to be sent back to voters when their SMS vote is succesful.
 
 
 How do I replace my contact list with all new contacts? 
