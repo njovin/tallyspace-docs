@@ -86,6 +86,11 @@ Respond to Failed SMS
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 By default, if a user's SMS message can't be authorized or matched to a valid SMS Option, the system will respond to them with an error message. If you'd like to disable this behavior, uncheck this box. 
 
+Respond to Succesful Vote
+^^^^^^^^^^^^^^^^^^^^^^^^^
+By default, no message is sent back to users when a vote is submitted succesfully.  If you'd like to change this, check this box and fill in the message you'd like sent back to voters.
+
+
 Respond to Failed SMS
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 By default, if a user's SMS vote is succesful, the system does not send any response.  If you'd like to send a response when a vote is counted succesfully, check this box and type in the message you'd like sent back to voters.
