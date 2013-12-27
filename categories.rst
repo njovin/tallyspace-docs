@@ -11,7 +11,7 @@ Simply click the *Add Category* button on the :ref:`ballot-overview` to create a
 Basic Settings
 ---------------
 * **Category Title:** The title (or question) that will show above the choices on the ballot.  
-* **Vote Quantity:** This sets the number of votes each voter is allowed to cast in this category.
+* **Vote Quantity:** This sets the number of votes each voter is allowed to cast in this category. You can restrict the total number of votes, or allow each voter a specific amount of votes per day, week, or month.
 * **Show Choice Photos on Ballot:** If set, you'll be able to upload a photo for each choice, which will be displayed on the ballot.
 * **Show Choice Description on Ballot:** If set, you'll be able to enter a long-form description ( details, platform speech, biography, etc.) which will be displayed next to the choice on the ballot.
 
