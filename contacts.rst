@@ -9,6 +9,12 @@ Contacts serve two purposes:
 
 Importing Contact Lists
 ------------------------
+
+.. note:: There's a video walkthrough available for importing contacts: `YouTube`_ `Vimeo`_
+
+.. _YouTube: http://youtu.be/bEwr_gYRj9k
+.. _Vimeo: http://www.vimeo.com/tallyspace/importing-contacts
+
 The easiest way to get all of your contacts into the system is using TallySpace's import tool.  Simply click the *Import Contacts* button at the top of the *Contacts* page to get started.
 
 Uploading the file

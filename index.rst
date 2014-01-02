@@ -26,6 +26,7 @@ Ballot Administration
    categories
    contacts
    account_administration
+   video_walkthroughs
 
 Voting
 ---------------
